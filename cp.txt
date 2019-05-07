@@ -1,1 +1,2 @@
 copy a learngit to test.
+delete the source dir to test.
