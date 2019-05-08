@@ -1,2 +1,3 @@
 test dev branch after cp.
 test branch merge with fast forward.
+test branch merge with no ff.
